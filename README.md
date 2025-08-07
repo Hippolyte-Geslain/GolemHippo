@@ -33,16 +33,6 @@ A playful and analytical take on the classic Tower of Hanoi puzzle.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hippolyte-Geslain&show_icons=true&theme=default" alt="Hippolyte Geslain's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hippolyte-Geslain&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p>
@@ -61,10 +51,7 @@ A playful and analytical take on the classic Tower of Hanoi puzzle.
 
 ## 🏆 Other Sections
 
-- 🔥 **Pinned Repositories:** (Pin your top projects here!)
-- 📖 **Blog Posts:** (Share what you’re learning!)
-- 🎤 **Talks/Presentations:** (Add any if you speak or present)
-- 🚀 **More widgets:** (Visit [github-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) for cool ideas!)
+- 🔥 **Coming soon !**
 
 ---
 
