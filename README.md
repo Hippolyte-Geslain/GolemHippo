@@ -1,8 +1,3 @@
-Thanks for the extra info! While I can't pull your GitHub stats or pinned repos automatically, I can set up the README to include all the sections you might want, with ready-to-use widgets and placeholders. You can easily update your stats or adjust pinned projects later if you’d like.
-
-Here’s a personalized, standout profile README draft for you. Let me know if you want to tweak anything!
-
-````markdown name=README.md
 <!-- Hippolyte Geslain | GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Hippolyte Geslain 👋</h1>
@@ -81,6 +76,3 @@ A playful and analytical take on the classic Tower of Hanoi puzzle.
     <li>Say hi if you see me on the TFT ladder!</li>
   </ul>
 </details>
-````
-
-Let me know what you'd like to change, add, or reorder!
